@@ -673,3 +673,8 @@ input[type="range"]:focus::-webkit-slider-track {
 /* .list-unstyled {
   overflow-y: scroll;
 } */
+
+.yoni {
+  width: 20px;
+  height: 20px;
+}
