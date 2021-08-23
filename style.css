@@ -331,12 +331,12 @@ a:hover {
 }
 
 .play-bottom {
-  bottom: 21px;
-  right: 21px;
-  width: 35px;
-  height: 35px;
+  bottom: 15px;
+  right: 15px;
+  width: 30px;
+  height: 31px;
   opacity: 1;
-  border-radius: 50%;
+  border-radius: 40%;
   background-color: #ffffff;
   transition: all 0.4s ease;
 }
